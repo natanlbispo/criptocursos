@@ -1,4 +1,4 @@
-# ~criptocursos~ Meu TCC
+# ~criptocursos~ MeOrienta
 Sonho - Meu TCC
 Objetivo - Desenvolver um sistema Web capaz de ajudar os estudantes de Ciência da computação a conhecer sobre as áreas e os projetos de cada professor
 
