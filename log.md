@@ -1,4 +1,4 @@
-#Log do Sonho 2
+# Log do Sonho 2
 
 ## 02/10
 - Formaçao das equipes
