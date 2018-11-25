@@ -21,3 +21,6 @@
 
 ## 23/11
 - Produção dos Slides
+
+## 25/11
+- Criação da logo
