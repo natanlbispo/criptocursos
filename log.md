@@ -11,3 +11,9 @@
 ## 13/10
 - Mudança de sonho: CriproCursos -> MeuTCC
 - Preenchimento de informaçoes no Trello e no Github
+
+## 12/11
+- Pesquisa sobre linguagem GraphQl
+
+## 19/11
+- Inicio da produção das telas
