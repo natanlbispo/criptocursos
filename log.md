@@ -17,3 +17,7 @@
 
 ## 19/11
 - Inicio da produção das telas
+- Levantamento de requisitos para o sistema
+
+## 23/11
+- Produção dos Slides
