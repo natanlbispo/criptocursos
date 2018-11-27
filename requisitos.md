@@ -10,4 +10,6 @@
 
 ##Implementações Futuras:
 
-- 
+- Informações de artigos publicados por professores cadastrados;
+- Aluna sinalizar interesse no professor;
+- Cadastro de interesse em uma área - notificação de atualizações na área cadastrada;
