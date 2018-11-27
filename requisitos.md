@@ -1,4 +1,4 @@
-##Requisitos Funcionais:
+## Requisitos Funcionais:
 
 - Cadastro -
 - Edição de Perfil - 
@@ -8,7 +8,7 @@
 - Busca por Área - 
 - Informações do Professor - 
 
-##Implementações Futuras:
+## Implementações Futuras:
 
 - Informações de artigos publicados por professores cadastrados;
 - Aluna sinalizar interesse no professor;
